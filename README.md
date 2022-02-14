@@ -1,7 +1,7 @@
 # **Machine Learning - Homework**
-
+---
 ## **Summary**
-
+---
 #### The Machine Learning homework comprised of two jupyter notebooks.  The data used was comprised loans and to use the data to conduct a risk analysis using different models.
 
  
